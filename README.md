@@ -1,5 +1,5 @@
 # Stocks Application
-## SwiftUI + Combine
+* SwiftUI + Combine
 ### Api
 ##### [News Api](https://newsapi.org)
 ##### [Stocks API Alpha Vantage](https://www.alphavantage.co)
